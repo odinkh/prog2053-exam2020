@@ -2,6 +2,8 @@
 
 Candidate number: 10061
 
+Oppgaven er forsøkt løst i edit-user.js
+
 
 
 * Lag en FORK av dette repositoriet og gi meg leserettigheter (aland.a.mendoza@ntnu.no). Det som er i repositoriet på slutten av eksamen teller som din besvarelse.
