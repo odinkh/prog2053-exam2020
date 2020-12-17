@@ -1,6 +1,6 @@
 # PROG2053 eksamen v2020
 
-STUDENT ID: 10061
+Candidate number: 10061
 
 
 
